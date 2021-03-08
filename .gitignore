@@ -25,3 +25,4 @@ bld/
 .vs/
 
 /packages
+FetchClimate1/ClimateService.Common/ClimateService.Common.csproj
